@@ -53,7 +53,7 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/033.jpg
+  background: https://c-ssl.duitang.com/uploads/item/201510/20/20151020152621_wtLEs.thumb.1000_0.jpeg
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: 'Volantis'
   subtitle: ''
